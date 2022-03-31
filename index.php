@@ -10,7 +10,7 @@
 
     <style>
         .menu {
-            border: 10px solid green;
+            border: 10px solid;
             padding: 20px;
             margin-bottom: 20px;
         }
